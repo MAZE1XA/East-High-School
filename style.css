@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #D71920;
+}
+.header {
+    width: 100%;
+    background-color: white;
+}
+.left{
+    float: left;
+    width: 33%;
+    background-color: #D71920;
+    height: 200px;
+}
+.center{
+    float: left;
+    width: 34%;
+    background-color:#C0C0C0;
+    height: 200px;
+}
+.right{
+    float: left;
+    width: 33%;
+    background-color: #11336A;
+    height: 200px;
+}
+.footer{
+    width: 100%;
+    float: left;
+    background-color: white;
+    height: 100px;
+}
